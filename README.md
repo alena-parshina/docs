@@ -2,6 +2,9 @@
 ---
 Тестовая документация
 ---
+В рамках курса я изучила ключевые методы тестирования: анализ граничных значений, чек-листы, тест-кейсы, отчеты о дефектах, тест-планы и работу с Youtrack, Jira, TestRail, QASE 
+___
+
 [Чек-лист для тестирования регистрации, логина и каталога](https://docs.google.com/spreadsheets/d/1kn7aA6xclxuwdpVQPqp2lgoX9VKcaDybjLUbfcap4DU/edit?gid=0#gid=0)
 ---
 [Просмотр проекта в Qase для Online Store](https://github.com/user-attachments/files/18770386/G9-2025-02-12.1.pdf)
